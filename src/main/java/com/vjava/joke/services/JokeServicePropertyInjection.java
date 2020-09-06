@@ -4,7 +4,7 @@ import guru.springframework.norris.chuck.ChuckNorrisQuotes;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-@Service
+//@Service
 public class JokeServicePropertyInjection implements JokeService{
 
     @Autowired

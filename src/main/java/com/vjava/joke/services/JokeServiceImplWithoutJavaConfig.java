@@ -1,6 +1,7 @@
 package com.vjava.joke.services;
 
 import guru.springframework.norris.chuck.ChuckNorrisQuotes;
+import org.springframework.stereotype.Service;
 
 //@Service
 public class JokeServiceImplWithoutJavaConfig implements JokeService {
